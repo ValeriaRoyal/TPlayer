@@ -54,7 +54,6 @@ There is no track limit.
 v1.1
 
 Added analog seek using left thumbstick
-
 Added FLAC support
 
 Added OGG Vorbis support
