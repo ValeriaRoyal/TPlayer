@@ -10,14 +10,23 @@ This project started as a personal challenge:
 ✨ Features
 
 🎧 MP3 support
+
 🎧 FLAC support
+
 🎧 OGG Vorbis support
+
 🖼️ Embedded cover art (ID3v2 APIC)
+
 🏷️ Title & artist metadata support
+
 🎮 Analog seek (progressive rewind / forward with left thumbstick)
+
 🔊 Volume control via D-PAD
+
 🔒 Planned lock mode (to prevent accidental button presses in pocket use)
+
 🎨 Dynamic background color based on cover artwork
+
 🖼️ Custom default "no cover" placeholder
 
 🎮 Controls
@@ -46,14 +55,14 @@ tplayer/gui/music/
 There is no track limit.
 
 📁 Supported Formats
-*.mp3
-*.flac
-*.ogg
+
+*.mp3 , *.flac , *.ogg
 
 📌 Changelog
 v1.1
 
 Added analog seek using left thumbstick
+
 Added FLAC support
 
 Added OGG Vorbis support
