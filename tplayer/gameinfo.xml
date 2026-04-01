@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./tplayer.sh</path>
+    <name>TPlayer</name>
+    <desc>"Simple Player MP3 inspired by Spotify"</desc>
+    <releasedate>20240630T000000</releasedate>
+    <developer>TyraNight</developer>
+    <genre>Other</genre>
+    <image>./tplayer/cover.png</image>
+  </game>
+</gameList>

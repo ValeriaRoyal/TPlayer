@@ -1,0 +1,30 @@
+{
+    "version": 3,
+    "name": "tplayer.zip",
+    "items": [
+        "tplayer.sh",
+        "tplayer"
+    ],
+    "items_opt": null,
+    "attr": {
+        "title": "TPlayer",
+        "porter": [
+            "Tyranight"
+        ],
+        "desc": "\"A lightweight and stylish MP3 player built with Love2D, featuring dynamic background colors based on album artwork, smooth transitions, gamepad support, volume control, and a clean console-friendly interface.\"",
+        "desc_md": "*\"A lightweight and stylish MP3 player built with Love2D, featuring dynamic background colors based on album artwork, smooth transitions, gamepad support, volume control, and a clean console-friendly interface.\"",
+        "inst": "Install and copy MP3 into gui/music",
+        "inst_md": "Install and copy your MP3 into gui/music",
+        "genres": [
+            "other"
+        ],
+        "image": {},
+        "rtr": true,
+        "exp": false,
+        "runtime": null,
+        "reqs": [],
+        "arch": [
+            "aarch64"
+        ]
+    }
+}
