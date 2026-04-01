@@ -5,6 +5,12 @@ A lightweight music player for the R36S handheld, built with Love2D.
 **Original project by [TyraNight](https://github.com/TyraNight/TPlayer)**
 **v2.0 modifications by [ValeriaRoyal](https://github.com/ValeriaRoyal)**
 
+### Screenshots
+
+| Albums | Track List | Now Playing |
+|--------|-----------|-------------|
+| ![Albums](screenshots/albums.jpeg) | ![Track List](screenshots/tracklist.jpeg) | ![Now Playing](screenshots/nowplaying.jpeg) |
+
 ## What's New in v2.0
 
 - **Album Browser** — navigate your music library by album with cover art thumbnails
